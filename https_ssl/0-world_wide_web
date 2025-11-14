@@ -25,5 +25,3 @@ else
     # If subdomain specified, check only that subdomain
     audit_subdomain "$domain" "$subdomain"
 fi
-~
-"0-world_wide_web" 27L, 852C                  12,1          All
